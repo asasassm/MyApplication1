@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         button1=findViewById<Button>(R.id.button)
 
         button1.setOnClickListener {
-            Toast.makeText(applicationContext,"버튼을 눌렀어요", Toast.LENGTH_SHORT).show()
+            Toast.makeText(applicationContext,"버튼을 눌렀어요ggggg", Toast.LENGTH_SHORT).show()
         }
 
     }
